@@ -25,7 +25,7 @@
     position: relative;
     bottom: 100px;
     background-color: #ffffff;
-    width: 1900px;
+    width: 2500px;
     right: 600px;
 }
 
